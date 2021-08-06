@@ -97,8 +97,6 @@ github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UV
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
 github.com/zaddok/log v0.0.0-20181204025159-298eaace4328 h1:b3GHCd+ETL8qm/QQUhJ16LiCqNxB/YOKJZs5oCicReA=
 github.com/zaddok/log v0.0.0-20181204025159-298eaace4328/go.mod h1:91o9I7iHMu1ZD0qZIVBO5m2Ie57kSsFYan2ofT0tle8=
-gitlab.com/montebo/security v0.124.2 h1:VyCz6YWvur1JdpsxkNHigNMlQH7aOzQGwjRF/vu5GLg=
-gitlab.com/montebo/security v0.124.2/go.mod h1:iATsPwO8Sxpqxx7R5VpDpzVaeyH7sR2nVq8Nkbj+6pk=
 go.opencensus.io v0.21.0/go.mod h1:mSImk1erAIZhrmZN+AvHh14ztQfjbGwt4TtuofqLduU=
 go.opencensus.io v0.22.0/go.mod h1:+kGneAE2xo2IficOXnaByMWTGM9T73dGwxeWcUqIpI8=
 go.opencensus.io v0.22.2 h1:75k/FF0Q2YM8QYo07VPddOLBslDt1MZOdEslOHvmzAs=
